@@ -1,4 +1,5 @@
-![Banner](https://via.placeholder.com/1000x250.png?text=Aashi+Gupta+Data+Analyst)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Aashi%20Gupta%20|%20Data%20Analyst&fontSize=30&fontColor=ffffff)
+
 # 👋 Hi, I'm Aashi Gupta  
 
 🎯 Aspiring Data Analyst | Turning Data into Insights  
