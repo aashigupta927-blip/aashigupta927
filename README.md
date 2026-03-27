@@ -1,3 +1,4 @@
+![Banner](https://via.placeholder.com/1000x250.png?text=Aashi+Gupta+Data+Analyst)
 # 👋 Hi, I'm Aashi Gupta  
 
 🎯 Aspiring Data Analyst | Turning Data into Insights  
