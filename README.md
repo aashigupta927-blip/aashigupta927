@@ -32,21 +32,20 @@
 
 ## 📊 Projects  
 
-🔹 **Netflix Data Analysis**  
-- Analyzed 5K+ records to identify trends in content  
-- Used Python (Pandas, NumPy) for data cleaning  
+1️⃣ Super Sales Data Project
+End-to-End Retail Sales Analysis Dashboard using Excel, SQL, Python & Power BI. Cleaned and analyzed sales data to identify trends, top-performing products, and revenue insights. Built interactive dashboard for business decision-making.
 
-🔹 **Sales Dashboard (Power BI)**  
-- Built interactive dashboard for business insights  
-- Visualized KPIs and sales trends  
+2️⃣ Hospital SQL Data Analysis
+Analyzed hospital dataset using SQL to extract key insights on patient records, treatments, and hospital performance. Wrote complex queries for data analysis and reporting.
 
-🔹 **Customer Segmentation**  
-- Grouped customers using data analysis techniques  
-- Helped in targeted marketing strategy  
+3️⃣ Netflix Content Analysis
+Performed exploratory data analysis on Netflix dataset using Python, SQL & Power BI. Identified trends across genres, countries, and release years to uncover content insights.
 
-🔹 **Data Cleaning Project**  
-- Cleaned raw datasets using Python  
-- Improved data quality for analysis  
+4️⃣ Customer Churn Analysis 
+Developed Customer Churn Analysis Dashboard using Power BI. Analyzed 7,000+ records, created KPIs (Churn Rate: 27%), and identified key factors impacting customer retention.
+
+5️⃣ Airbnb End-to-End Data Analysis
+Conducted end-to-end data analysis on Airbnb dataset using Python, SQL & Power BI. Cleaned data and gen
 
 ---
 
